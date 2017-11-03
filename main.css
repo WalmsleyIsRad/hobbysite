@@ -1,0 +1,62 @@
+body{
+background-image: url("https://livewallpaperhd.com/wp-content/uploads/2017/05/Solid-Blue-Desktop-Wallpaper.jpg");
+background-repeat: no-repeat;
+background-position: default;
+background-attachment: fixed;
+}
+#ranks{
+height:90%;
+width:30%;
+}
+
+#logo{
+height:50%;
+width:30%;
+}
+
+#rlcs{
+height:50%;
+width:30%;
+}
+
+#rlrs{
+height:50%;
+width:30%;
+}
+#season1{
+height:90%;
+width:70%;
+}
+
+#season2{
+height:90%;
+width:70%;
+}
+
+#season3{
+height:90%;
+width:70%;
+}
+
+#pro{
+height:70%;
+width:50%;
+}
+
+.banner_item{
+color:white;
+display:incline;
+}
+
+#banner{
+background-color:#f60;
+}
+
+a{
+color:white;
+text-decoration:none;
+font-size: 16pt;
+padding:5px;
+}
+
+
